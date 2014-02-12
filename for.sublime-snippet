@@ -1,0 +1,11 @@
+<snippet>
+   <content><![CDATA[
+for(Integer i = 0; i < ${1:sObjectList}.size(); i++){
+   ${1:sObjectList}[i]
+}
+]]></content>
+   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+   <tabTrigger>for</tabTrigger>
+   <!-- Optional: Set a scope to limit where the snippet will trigger -->
+   <scope>source.apex</scope>
+</snippet>

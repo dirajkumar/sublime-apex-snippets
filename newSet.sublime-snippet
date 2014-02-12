@@ -1,0 +1,9 @@
+<snippet>
+   <content><![CDATA[
+Set<${1:SObject}> ${2:sObjectSet} = new Set<${1:SObject}>();
+]]></content>
+   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+   <tabTrigger>newSet</tabTrigger>
+   <!-- Optional: Set a scope to limit where the snippet will trigger -->
+   <scope>source.apex</scope>
+</snippet>

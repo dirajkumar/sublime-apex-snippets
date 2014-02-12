@@ -1,0 +1,9 @@
+<snippet>
+   <content><![CDATA[
+public static final ${1:String} ${2:NAME} = ${3:VALUE};
+]]></content>
+   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+   <tabTrigger>const</tabTrigger>
+   <!-- Optional: Set a scope to limit where the snippet will trigger -->
+   <scope>source.apex</scope>
+</snippet>
