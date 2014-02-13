@@ -1,4 +1,4 @@
-This is a [Sublime Text 3](http://www.sublimetext.com/3) package which includes a bunch of handy apex snippets for development on Salesforce platform.
+Assuming you've installed [Mavensmate](https://github.com/joeferraro/MavensMate-SublimeText) already. This is package includes a bunch of handy apex snippets for development on Salesforce platform.
 
 ## Installation
 
@@ -16,13 +16,9 @@ While inside the `Packages` directory, clone the theme repository using the comm
 
     git clone https://github.com/dirajkumar/sublime-apex-snippets.git "Apex Snippets"
 
-### Download Manually
+### Manually
 
 * Download the files using the GitHub .zip download option
 * Unzip the files and rename the folder to `Apex Snippets`
 * Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
 * Copy the folder into your Sublime Text `Packages` directory
-
-[sublime]: http://www.sublimetext.com/
-[sublime3]: http://www.sublimetext.com/3
-[package_control]: http://wbond.net/sublime_packages/package_control
