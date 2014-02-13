@@ -4,5 +4,5 @@ ApexPages.addMessage(new ApexPages.message(ApexPages.Severity.${1:ERROR}, ${2:re
 ]]></content>
    <tabTrigger>addMess</tabTrigger>
    <scope>source.apex</scope>
-   <description>Add Message from Errors</description>
+   <description>Add Apex Page Message from Errors</description>
 </snippet>
