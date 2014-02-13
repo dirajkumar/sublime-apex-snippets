@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+public ${1:String} ${2:variable} {get; set;}
+]]></content>
+   <tabTrigger>getSet</tabTrigger>
+   <scope>source.apex</scope>
+   <description>Getter Setter</description>
+</snippet>

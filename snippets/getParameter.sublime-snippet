@@ -1,9 +1,8 @@
 <snippet>
    <content><![CDATA[
-String sObjId = ApexPages.currentPage().getParameters().get('${1:Id}');
+String ${1:sObjId} = ApexPages.currentPage().getParameters().get('${2:Id}');
 ]]></content>
-   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>getParameter</tabTrigger>
-   <!-- Optional: Set a scope to limit where the snippet will trigger -->
    <scope>source.apex</scope>
+   <description>Get Paramater from Current Page</description>
 </snippet>

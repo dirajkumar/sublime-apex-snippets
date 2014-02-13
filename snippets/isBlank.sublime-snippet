@@ -2,7 +2,7 @@
    <content><![CDATA[
 String.isNotBlank(${1:Id})
 ]]></content>
-   <tabTrigger>isNotBlank</tabTrigger>
+   <tabTrigger>isBlank</tabTrigger>
    <scope>source.apex</scope>
-   <description>String isNotBlank</description>
+   <description>String isBlank</description>
 </snippet>

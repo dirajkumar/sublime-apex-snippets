@@ -4,21 +4,21 @@ This is a [Sublime Text][sublime] package which includes a bunch of handy apex s
 
 ### Without Package Control ###
 
-This package is not in [wbond's][package_control] repository, so you gotta use Terminal and git to install it. 
+This package is not in [wbond's][package_control] repository, so you gotta use Terminal and git to install it.
 
 I'm using [Sublime 3][sublime3] and it works like a charm.
 
 #### Mac OS ####
 
     cd "~/Library/Application Support/Sublime Text 3/Packages"
-    
+
 #### Windows 7 ####
-    
+
     cd "C:\Users\YOUR_USERNAME\AppData\Roaming\Sublime Text 3\Packages"
-    
+
 #### Inside _Packages_ ####
-    
-    git clone https://github.com/dirajkumar/sublime-apex-snippets.git "Apex-Snippets"
+
+    git clone https://github.com/dirajkumar/sublime-apex-snippets.git "Apex Snippets"
 
 
 [sublime]: http://www.sublimetext.com/

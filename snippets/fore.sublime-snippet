@@ -4,8 +4,7 @@ for(${1:sObject} ${2:sObj}: ${3:sObjList}){
    ${2:sObj}
 }
 ]]></content>
-   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>fore</tabTrigger>
-   <!-- Optional: Set a scope to limit where the snippet will trigger -->
    <scope>source.apex</scope>
+   <description>Iterator-based FOR loop</description>
 </snippet>

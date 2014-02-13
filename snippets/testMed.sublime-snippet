@@ -4,8 +4,7 @@ static testmethod void Test_${1:MethodName}(){
    ${2}
 }
 ]]></content>
-   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>testMed</tabTrigger>
-   <!-- Optional: Set a scope to limit where the snippet will trigger -->
    <scope>source.apex</scope>
+   <description>Test Method</description>
 </snippet>

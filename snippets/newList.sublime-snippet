@@ -2,8 +2,7 @@
    <content><![CDATA[
 List<${1:SObject}> ${2:sObjectList} = new List<${1:SObject}>();
 ]]></content>
-   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>newList</tabTrigger>
-   <!-- Optional: Set a scope to limit where the snippet will trigger -->
    <scope>source.apex</scope>
+   <description>Instantiate a new List</description>
 </snippet>

@@ -1,9 +1,0 @@
-<snippet>
-   <content><![CDATA[
-public ${1:String} ${2:variable} {get; set;}
-]]></content>
-   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-   <tabTrigger>getterSetter</tabTrigger>
-   <!-- Optional: Set a scope to limit where the snippet will trigger -->
-   <scope>source.apex</scope>
-</snippet>

@@ -2,8 +2,7 @@
    <content><![CDATA[
 [SELECT Id, Name, ${4} FROM ${1:sObject} WHERE ${2:Id} =:${3:sObjId}]
 ]]></content>
-   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>soql</tabTrigger>
-   <!-- Optional: Set a scope to limit where the snippet will trigger -->
    <scope>source.apex</scope>
+   <description>SOQL query</description>
 </snippet>
