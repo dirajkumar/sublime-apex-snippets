@@ -1,4 +1,4 @@
-Assuming you've installed [Mavensmate](https://github.com/joeferraro/MavensMate-SublimeText) already. This is package includes a bunch of handy apex snippets for development on Salesforce platform.
+Assuming you've installed [Mavensmate](https://github.com/joeferraro/MavensMate-SublimeText) already. This package includes a bunch of handy apex snippets for development on Salesforce platform.
 
 ## Installation
 
