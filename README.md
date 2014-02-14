@@ -12,7 +12,7 @@ Alternatively, if you are a git user, you can install the package and keep up to
 
 You can locate your Sublime Text `Packages` directory by using the menu item `Preferences -> Browse Packages...`.
 
-While inside the `Packages` directory, clone the theme repository using the command below:
+While inside the `Packages` directory, clone the package repository using the command below:
 
     git clone https://github.com/dirajkumar/sublime-apex-snippets.git "Apex Snippets"
 
