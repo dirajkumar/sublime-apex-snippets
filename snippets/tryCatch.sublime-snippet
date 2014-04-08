@@ -2,8 +2,8 @@
    <content><![CDATA[
 try {
   ${1}
-} catch(Exception e) {
-  System.debug(e.getMessage());
+} catch(${2:Exception e}) {
+  ${3:System.debug(e.getMessage());}
 }
 ]]></content>
    <tabTrigger>tryc</tabTrigger>
