@@ -1,9 +1,9 @@
 <snippet>
    <content><![CDATA[
 try {
-  ${1}
-} catch(${2:Exception e}) {
-  ${3:System.debug(e.getMessage());}
+  ${3}
+} catch(${1:Exception e}) {
+  ${2:System.debug(e.getMessage());}
 }
 ]]></content>
    <tabTrigger>tryc</tabTrigger>
