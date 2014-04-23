@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+//---------------------------------------------------------------------------
+// ${1:A description of the function}
+//---------------------------------------------------------------------------
+
+]]></content>
+    <tabTrigger>funcHeader</tabTrigger>
+    <scope>source.apex</scope>
+</snippet>
