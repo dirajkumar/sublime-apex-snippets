@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-for(Integer i = 0; i < ${1:sObjectList}.size(); i++){
+for(Integer i = 0; i < ${1:sObjectList}.size(); i++) {
    ${1:sObjectList}[i]
 }
 ]]></content>

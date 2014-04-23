@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-if(String.isNotBlank(${1:Id})){
+if(String.isNotBlank(${1:Id})) {
    ${2}
 }
 ]]></content>
