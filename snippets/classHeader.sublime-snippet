@@ -1,13 +1,12 @@
 <snippet>
     <content><![CDATA[
-//***************************************************************************
-// (c) 201${1:Y} ${2:Your company}
-//
-// Description    : ${3:A description of the class}
-//
-// 201${1:Y}-${4:MM}-${5:DD}     : ${6:Your Name} - Original
-//
-//***************************************************************************
+/**
+ * @author ${1:Your Name} (${2:Your email address})
+ * @version ${3:1.0}
+ * @description ${4:Description of the class}
+ *
+ * 201${5:Y}-${6:MM}-${7:DD} : ${1:Your Name} - Original
+ **/
 
 ]]></content>
     <tabTrigger>classHeader</tabTrigger>
