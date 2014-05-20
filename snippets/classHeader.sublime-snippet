@@ -11,4 +11,5 @@
 ]]></content>
     <tabTrigger>classHeader</tabTrigger>
     <scope>source.apex</scope>
+    <description>Class Header for Java Docs</description>
 </snippet>
