@@ -8,6 +8,6 @@
  **/
 
 ]]></content>
-    <tabTrigger>funcHeader</tabTrigger>
+    <tabTrigger>methodHeader</tabTrigger>
     <scope>source.apex</scope>
 </snippet>
