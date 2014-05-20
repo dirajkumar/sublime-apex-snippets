@@ -1,7 +1,7 @@
 <snippet>
    <content><![CDATA[
 String ${1:soql} = 'SELECT ';
-for(String fieldName : Schema.getGlobalDescribe().get(${2:sObjectName}).getDescribe().fields.getMap().keySet()){
+for(String fieldName : Schema.getGlobalDescribe().get(${2:sObjectName}).getDescribe().fields.getMap().keySet()) {
    ${1:soql} += fieldName + ', ';
 }
 ${1:soql} = ${1:soql}.left(${1:soql}.lastIndexOf(','));
