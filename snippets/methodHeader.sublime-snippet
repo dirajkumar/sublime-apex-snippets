@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * @description ${1:A description of the function}
+ * @param ${2:Param data type} ${3:Param description}
+ * @param ${4:Param data type} ${5:Param description}
+ * @return ${6:Return data type} ${7:Return description}
+ **/
+
+]]></content>
+    <tabTrigger>methodHeader</tabTrigger>
+    <scope>source.apex</scope>
+    <description>Method Header for Java Docs</description>
+</snippet>
+

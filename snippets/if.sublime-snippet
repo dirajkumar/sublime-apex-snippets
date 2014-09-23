@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-if(${1:true}){
+if(${1:true}) {
    ${2}
 }
 ]]></content>

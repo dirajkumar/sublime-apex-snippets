@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-for(${1:sObject} ${2:sObj}: ${3:sObjList}){
+for(${1:sObject} ${2:sObj}: ${3:sObjList}) {
    ${2:sObj}
 }
 ]]></content>

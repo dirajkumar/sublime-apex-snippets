@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-static testmethod void Test_${1:MethodName}(){
+static testmethod void Test_${1:MethodName}() {
    ${2}
 }
 ]]></content>
