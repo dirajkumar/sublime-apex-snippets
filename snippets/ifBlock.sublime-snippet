@@ -1,12 +1,11 @@
 <snippet>
     <content><![CDATA[
-        if (${1}) {
-            ${SELECTION}
-        }
+if ($1) {
+$SELECTION
+}
     ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>ifblock</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <scope>source.apex</scope>
+    <!-- <scope>source.apex</scope> -->
     <description>Adds if block around selection</description>
 </snippet>
