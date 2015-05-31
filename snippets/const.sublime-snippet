@@ -1,8 +1,8 @@
 <snippet>
    <content><![CDATA[
-public static final ${1:String} ${2:NAME} = ${3:VALUE};
+${1:private} static final ${2:String} ${3:NAME} = ${4:VALUE};
 ]]></content>
    <tabTrigger>const</tabTrigger>
    <scope>source.apex</scope>
-   <description>Constant Static Variable</description>
+   <description>Private Static Variable</description>
 </snippet>

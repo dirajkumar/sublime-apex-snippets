@@ -1,10 +1,10 @@
 <snippet>
-   <content><![CDATA[
+	<content><![CDATA[
 for(${1:sObject} ${2:sObj}: ${3:sObjList}) {
-   ${2:sObj}
+	${2:sObj}
 }
 ]]></content>
-   <tabTrigger>fore</tabTrigger>
-   <scope>source.apex</scope>
-   <description>Iterator-based FOR loop</description>
+	<tabTrigger>fore</tabTrigger>
+	<scope>source.apex</scope>
+	<description>Iterator-based FOR loop</description>
 </snippet>

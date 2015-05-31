@@ -1,9 +1,10 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 for(${1:sObject} ${2:sObj}: ${3:sObjList}) {
-$SELECTION
+	$SELECTION
 }
 ]]></content>
-   <tabTrigger>foreBlock</tabTrigger>
-   <description>Iter FOR loop around selection</description>
+	<tabTrigger>foreBlock</tabTrigger>
+	<scope>source.apex</scope>
+	<description>Iter FOR loop around selection</description>
 </snippet>

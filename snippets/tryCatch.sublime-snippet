@@ -1,12 +1,12 @@
 <snippet>
-   <content><![CDATA[
+	<content><![CDATA[
 try {
-  ${3}
+	${3}
 } catch(${1:Exception e}) {
-  ${2:System.debug(e.getMessage());}
+	${2:System.debug(e.getMessage());}
 }
 ]]></content>
-   <tabTrigger>tryc</tabTrigger>
-   <scope>source.apex</scope>
-   <description>Simple TRY CATCH Condition</description>
+	<tabTrigger>tryc</tabTrigger>
+	<scope>source.apex</scope>
+	<description>Simple TRY CATCH Condition</description>
 </snippet>

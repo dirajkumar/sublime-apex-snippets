@@ -1,10 +1,10 @@
 <snippet>
-   <content><![CDATA[
+	<content><![CDATA[
 if(${1:true}) {
-   ${2}
+	${2}
 }
 ]]></content>
-   <tabTrigger>if</tabTrigger>
-   <scope>source.apex</scope>
-   <description>Simple IF Condition</description>
+	<tabTrigger>if</tabTrigger>
+	<scope>source.apex</scope>
+	<description>Simple IF Condition</description>
 </snippet>

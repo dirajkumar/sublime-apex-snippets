@@ -1,8 +1,8 @@
 <snippet>
-   <content><![CDATA[
+	<content><![CDATA[
 System.assertEquals(${1:expected}, ${2:actual});
 ]]></content>
-   <tabTrigger>asse</tabTrigger>
-   <scope>source.apex</scope>
-   <description>Assert Equals</description>
+	<tabTrigger>asse</tabTrigger>
+	<scope>source.apex</scope>
+	<description>Assert Equals</description>
 </snippet>

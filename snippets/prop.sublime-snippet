@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:public} ${2:String} ${3:variable} {get; set;}
+]]></content>
+	<tabTrigger>prop</tabTrigger>
+	<scope>source.apex</scope>
+	<description>Property</description>
+</snippet>

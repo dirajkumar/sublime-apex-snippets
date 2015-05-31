@@ -1,8 +1,8 @@
 <snippet>
-   <content><![CDATA[
+	<content><![CDATA[
 ApexPages.addMessage(new ApexPages.message(ApexPages.Severity.${1:ERROR}, ${2:result.getErrors()[0].getMessage()}));
 ]]></content>
-   <tabTrigger>addMess</tabTrigger>
-   <scope>source.apex</scope>
-   <description>Add Apex Page Message from Errors</description>
+	<tabTrigger>addMess</tabTrigger>
+	<scope>source.apex</scope>
+	<description>Add Apex Page Message from Errors</description>
 </snippet>

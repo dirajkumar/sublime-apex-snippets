@@ -1,15 +1,15 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 /**
- * @author ${1:Your Name} (${2:Your email address})
- * @version ${3:1.0}
- * @description ${4:Description of the class}
- *
- * 201${5:Y}-${6:MM}-${7:DD} : ${1:Your Name} - Original
- **/
+* @author ${1:Your Name} (${2:Your email address})
+* @version ${3:1.0}
+* @description ${4:Description of the class}
+*
+* 201${5:Y}-${6:MM}-${7:DD} : ${1:Your Name} - Original
+**/
 
 ]]></content>
-    <tabTrigger>classHeader</tabTrigger>
-    <scope>source.apex</scope>
-    <description>Class Header for Java Docs</description>
+	<tabTrigger>classHeader</tabTrigger>
+	<scope>source.apex</scope>
+	<description>Class Header for Java Docs</description>
 </snippet>

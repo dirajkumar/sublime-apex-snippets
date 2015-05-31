@@ -1,8 +1,8 @@
 <snippet>
-   <content><![CDATA[
+	<content><![CDATA[
 Map<${1:Id}, ${2:SObject}> ${3:sObjectMap} = new Map<${1:Id}, ${2:SObject}>();
 ]]></content>
-   <tabTrigger>newMap</tabTrigger>
-   <scope>source.apex</scope>
-   <description>Instantiate a new Map</description>
+	<tabTrigger>newMap</tabTrigger>
+	<scope>source.apex</scope>
+	<description>Instantiate a new Map</description>
 </snippet>

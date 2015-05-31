@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 /**
  * @description ${1:A description of the function}
  * @param ${2:Param data type} ${3:Param description}
@@ -8,8 +8,8 @@
  **/
 
 ]]></content>
-    <tabTrigger>methodHeader</tabTrigger>
-    <scope>source.apex</scope>
-    <description>Method Header for Java Docs</description>
+	<tabTrigger>methodHeader</tabTrigger>
+	<scope>source.apex</scope>
+	<description>Method Header for Java Docs</description>
 </snippet>
 

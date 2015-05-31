@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:SObject}[] ${2:sObjects} = new ${1:SObject}[]{};
+]]></content>
+	<tabTrigger>newArr</tabTrigger>
+	<scope>source.apex</scope>
+	<description>Instantiate a new Array</description>
+</snippet>
