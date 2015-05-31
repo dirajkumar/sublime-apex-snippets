@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:private} static ${2:ReturnType} ${3:MethodName}(${4:Parameters}) {
+	${0}
+}
+]]></content>
+	<tabTrigger>psm</tabTrigger>
+	<scope>source.apex</scope>
+	<description>Static Method</description>
+</snippet>

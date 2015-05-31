@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+else if (${1:Condition}) {
+	${0}
+}
+]]></content>
+	<tabTrigger>elseif</tabTrigger>
+	<scope>source.apex</scope>
+	<description>Else If clause</description>
+</snippet>

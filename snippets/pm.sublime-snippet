@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:private} ${2:ReturnType} ${3:MethodName}(${4:Parameters}) {
+	${0}
+}
+]]></content>
+	<tabTrigger>pm</tabTrigger>
+	<scope>source.apex</scope>
+	<description>Method</description>
+</snippet>
