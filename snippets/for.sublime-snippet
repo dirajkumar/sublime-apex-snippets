@@ -1,10 +1,10 @@
 <snippet>
-   <content><![CDATA[
-for(Integer i = 0; i < ${1:sObjectList}.size(); i++){
-   ${1:sObjectList}[i]
+	<content><![CDATA[
+for(Integer i = 0; i < ${1:sObjectList}.size(); i++) {
+	${1:sObjectList}[i]
 }
 ]]></content>
-   <tabTrigger>for</tabTrigger>
-   <scope>source.apex</scope>
-   <description>Traditional FOR loop</description>
+	<tabTrigger>for</tabTrigger>
+	<scope>source.apex</scope>
+	<description>Traditional FOR loop</description>
 </snippet>

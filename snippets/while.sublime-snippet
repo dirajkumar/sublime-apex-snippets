@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+while (${1:Condition}) {
+	${0}
+}
+]]></content>
+	<tabTrigger>while</tabTrigger>
+	<scope>source.apex</scope>
+	<description>While Loop</description>
+</snippet>

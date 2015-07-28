@@ -1,8 +1,8 @@
 <snippet>
-   <content><![CDATA[
+	<content><![CDATA[
 Savepoint sp = Database.setSavepoint();
 ]]></content>
-   <tabTrigger>sp</tabTrigger>
-   <scope>source.apex</scope>
-   <description>Database Set Savepoint</description>
+	<tabTrigger>sp</tabTrigger>
+	<scope>source.apex</scope>
+	<description>Database Set Savepoint</description>
 </snippet>

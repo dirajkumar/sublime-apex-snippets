@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+interface I${1:InterfaceName} {
+	${0}
+}
+]]></content>
+	<tabTrigger>interface</tabTrigger>
+	<scope>source.apex</scope>
+	<description>Interface</description>
+</snippet>

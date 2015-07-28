@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+for (Integer i = 0; i < ${1:sObjectList}.size(); i++) {
+	$SELECTION
+}
+]]></content>
+	<tabTrigger>forBlock</tabTrigger>
+	<scope>source.apex</scope>
+	<description>Trad FOR loop around selection</description>
+</snippet>

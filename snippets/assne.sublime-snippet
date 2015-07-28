@@ -1,8 +1,8 @@
 <snippet>
-   <content><![CDATA[
+	<content><![CDATA[
 System.assertNotEquals(${1:expected}, ${2:actual});
 ]]></content>
-   <tabTrigger>assne</tabTrigger>
-   <scope>source.apex</scope>
-   <description>Assert Not Equals</description>
+	<tabTrigger>assne</tabTrigger>
+	<scope>source.apex</scope>
+	<description>Assert Not Equals</description>
 </snippet>

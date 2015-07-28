@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:public} class ${2:ClassName} {
+	${0}
+}
+]]></content>
+	<tabTrigger>class</tabTrigger>
+	<scope>source.apex</scope>
+	<description>New Class Signature</description>
+</snippet>

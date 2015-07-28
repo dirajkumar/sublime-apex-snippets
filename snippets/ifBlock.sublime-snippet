@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+if ($1) {
+	$SELECTION
+}
+	]]></content>
+	<tabTrigger>ifblock</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.apex</scope> -->
+	<description>Adds if block around selection</description>
+</snippet>

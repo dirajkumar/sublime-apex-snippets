@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:public} ${2:ClassName} (${3:Parameters}) {
+	${0}
+}
+]]></content>
+	<tabTrigger>ctror</tabTrigger>
+	<scope>source.apex</scope>
+	<description>Class Construstor</description>
+</snippet>

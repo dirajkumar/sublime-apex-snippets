@@ -1,8 +1,8 @@
 <snippet>
-   <content><![CDATA[
+	<content><![CDATA[
 List<${1:SObject}> ${2:sObjectList} = new List<${1:SObject}>();
 ]]></content>
-   <tabTrigger>newList</tabTrigger>
-   <scope>source.apex</scope>
-   <description>Instantiate a new List</description>
+	<tabTrigger>newList</tabTrigger>
+	<scope>source.apex</scope>
+	<description>Instantiate a new List</description>
 </snippet>
